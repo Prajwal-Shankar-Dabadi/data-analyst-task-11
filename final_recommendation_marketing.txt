@@ -1,0 +1,5 @@
+Chi-square p-value: 0.0000
+
+Hypothesis Result:
+Reject H0: There is a significant difference between groups.
+Recommendation: Run Ads (Test group performs better).
